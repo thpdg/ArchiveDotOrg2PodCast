@@ -21,7 +21,8 @@ text_file = open(filename, "r")
 file_data = text_file.read()
 
 rss_title = re.findall(title_regex,file_data)
-print(f'Title is {rss_title[0]}')
+rss_title = rss_title[0]
+print(f'Title is {rss_title}')
 
 # Load RSS document template into string
 text_file = open("RSSFeedDocumentTemplate.xml", "r")
@@ -73,6 +74,6 @@ for matchNum, match in enumerate(matches, start=1):
 
 output_document = output_document.replace("%PODCAST_CONTENT%",episode_entries)
 
-f = open("demofile3.txt", "w")
+f = open(f"{rss_title}_rssoutput.rss", "w")
 f.write(output_document)
 f.close()

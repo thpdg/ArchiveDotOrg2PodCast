@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>%PODCAST_TITLE%</title>
+<link>%PODCAST_URL%<link>
+<language>en-us</language>
+<itunes:subtitle>Archive Dot Org MP3s</itunes:subtitle>
+<itunes:author>Author Name</itunes:author>
+<itunes:summary>Archive Dot Org MP3s As A Podcast (its)</itunes:summary>
+<description>Archive Dot Org MP3s As A Podcast</description>
+<itunes:owner>
+    <itunes:name>Owner Name</itunes:name>
+    <itunes:email>me@example.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="%PODCAST_IMG_URL" />
+<itunes:category text="Category Name"/></itunes:category>
+
+<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
+
+<item>
+    <title>O&A-2005-11-01.mp3</title>
+    <itunes:summary>O&A-2005-11-01.mp3</itunes:summary>
+    <description>O&A-2005-11-01.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-01.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-02.mp3</title>
+    <itunes:summary>O&A-2005-11-02.mp3</itunes:summary>
+    <description>O&A-2005-11-02.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-02.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-03.mp3</title>
+    <itunes:summary>O&A-2005-11-03.mp3</itunes:summary>
+    <description>O&A-2005-11-03.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-03.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-04.mp3</title>
+    <itunes:summary>O&A-2005-11-04.mp3</itunes:summary>
+    <description>O&A-2005-11-04.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-04.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-07.mp3</title>
+    <itunes:summary>O&A-2005-11-07.mp3</itunes:summary>
+    <description>O&A-2005-11-07.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-07.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-08.mp3</title>
+    <itunes:summary>O&A-2005-11-08.mp3</itunes:summary>
+    <description>O&A-2005-11-08.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-08.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-09.mp3</title>
+    <itunes:summary>O&A-2005-11-09.mp3</itunes:summary>
+    <description>O&A-2005-11-09.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-09.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-10.mp3</title>
+    <itunes:summary>O&A-2005-11-10.mp3</itunes:summary>
+    <description>O&A-2005-11-10.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-10.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-11.mp3</title>
+    <itunes:summary>O&A-2005-11-11.mp3</itunes:summary>
+    <description>O&A-2005-11-11.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-11.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-14.mp3</title>
+    <itunes:summary>O&A-2005-11-14.mp3</itunes:summary>
+    <description>O&A-2005-11-14.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-14.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-15.mp3</title>
+    <itunes:summary>O&A-2005-11-15.mp3</itunes:summary>
+    <description>O&A-2005-11-15.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-15.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-16.mp3</title>
+    <itunes:summary>O&A-2005-11-16.mp3</itunes:summary>
+    <description>O&A-2005-11-16.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-16.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-17.mp3</title>
+    <itunes:summary>O&A-2005-11-17.mp3</itunes:summary>
+    <description>O&A-2005-11-17.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-17.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-18.mp3</title>
+    <itunes:summary>O&A-2005-11-18.mp3</itunes:summary>
+    <description>O&A-2005-11-18.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-18.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-21.mp3</title>
+    <itunes:summary>O&A-2005-11-21.mp3</itunes:summary>
+    <description>O&A-2005-11-21.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-21.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-22.mp3</title>
+    <itunes:summary>O&A-2005-11-22.mp3</itunes:summary>
+    <description>O&A-2005-11-22.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-22.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-23.mp3</title>
+    <itunes:summary>O&A-2005-11-23.mp3</itunes:summary>
+    <description>O&A-2005-11-23.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-23.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-24.mp3</title>
+    <itunes:summary>O&A-2005-11-24.mp3</itunes:summary>
+    <description>O&A-2005-11-24.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-24.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-25.mp3</title>
+    <itunes:summary>O&A-2005-11-25.mp3</itunes:summary>
+    <description>O&A-2005-11-25.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-25.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-28.mp3</title>
+    <itunes:summary>O&A-2005-11-28.mp3</itunes:summary>
+    <description>O&A-2005-11-28.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-28.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-29.mp3</title>
+    <itunes:summary>O&A-2005-11-29.mp3</itunes:summary>
+    <description>O&A-2005-11-29.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-29.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+<item>
+    <title>O&A-2005-11-30.mp3</title>
+    <itunes:summary>O&A-2005-11-30.mp3</itunes:summary>
+    <description>O&A-2005-11-30.mp3</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="O&A-2005-11-30.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>2022-05-04</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
+
+
+
+<!--END REPEAT--> 
+   
+</channel>
+</rss>
