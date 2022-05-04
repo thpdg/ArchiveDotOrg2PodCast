@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>%PODCAST_TITLE%</title>
+<link>%PODCAST_URL%<link>
+<language>en-us</language>
+<itunes:subtitle>Archive Dot Org MP3s</itunes:subtitle>
+<itunes:author>Author Name</itunes:author>
+<itunes:summary>Archive Dot Org MP3s As A Podcast (its)</itunes:summary>
+<description>Archive Dot Org MP3s As A Podcast</description>
+<itunes:owner>
+    <itunes:name>Owner Name</itunes:name>
+    <itunes:email>me@example.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="%PODCAST_IMG_URL" />
+<itunes:category text="Category Name"/></itunes:category>
+
+<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
+
+%PODCAST_CONTENT%
+
+<!--END REPEAT--> 
+   
+</channel>
+</rss>

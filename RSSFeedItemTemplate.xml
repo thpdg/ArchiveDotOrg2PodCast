@@ -1,0 +1,12 @@
+<item>
+    <title>%EPISODE_TITLE%</title>
+    <itunes:summary>%EPISODE_SUMMARY%</itunes:summary>
+    <description>%EPISODE_DESCRIPTION%</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="%SOUNDFILE_URL%" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>%SOUNDFILE_DATE%</pubDate>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:duration>02:42:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1zzz</guid>
+</item>
