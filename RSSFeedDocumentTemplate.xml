@@ -13,7 +13,7 @@
     <itunes:email>me@example.com</itunes:email>
 </itunes:owner>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="%PODCAST_IMG_URL" />
+<itunes:image href="%PODCAST_IMG_URL%" />
 <itunes:category text="Category Name"/></itunes:category>
 
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->

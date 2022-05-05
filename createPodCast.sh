@@ -6,6 +6,9 @@ echo "Audio source URL is $1"
 # Download specified URL
 curl $1 > sourceList.htm
 
+python findMatches.py sourceList.htm $1 $2
+
+
 # Prepare start of RSS file with initial podcast metadata
 
 # Search stored file for links to mp3 files
