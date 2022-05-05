@@ -23,8 +23,8 @@
     <itunes:summary>R&F-2015-01-01.mp3</itunes:summary>
     <description>R&F-2015-01-01.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-01.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-01.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 01 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -36,8 +36,8 @@
     <itunes:summary>R&F-2015-01-02.mp3</itunes:summary>
     <description>R&F-2015-01-02.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-02.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-02.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 02 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -49,8 +49,8 @@
     <itunes:summary>R&F-2015-01-05.mp3</itunes:summary>
     <description>R&F-2015-01-05.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-05.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-05.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 05 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -62,8 +62,8 @@
     <itunes:summary>R&F-2015-01-06.mp3</itunes:summary>
     <description>R&F-2015-01-06.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-06.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-06.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 06 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -75,8 +75,8 @@
     <itunes:summary>R&F-2015-01-07.mp3</itunes:summary>
     <description>R&F-2015-01-07.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-07.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-07.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 07 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -88,8 +88,8 @@
     <itunes:summary>R&F-2015-01-08.mp3</itunes:summary>
     <description>R&F-2015-01-08.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-08.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-08.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 08 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -101,8 +101,8 @@
     <itunes:summary>R&F-2015-01-09.mp3</itunes:summary>
     <description>R&F-2015-01-09.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-09.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-09.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 09 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -114,8 +114,8 @@
     <itunes:summary>R&F-2015-01-12.mp3</itunes:summary>
     <description>R&F-2015-01-12.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-12.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-12.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 12 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -127,8 +127,8 @@
     <itunes:summary>R&F-2015-01-13.mp3</itunes:summary>
     <description>R&F-2015-01-13.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-13.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-13.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 13 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -140,8 +140,8 @@
     <itunes:summary>R&F-2015-01-14.mp3</itunes:summary>
     <description>R&F-2015-01-14.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-14.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-14.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 14 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -153,8 +153,8 @@
     <itunes:summary>R&F-2015-01-15.mp3</itunes:summary>
     <description>R&F-2015-01-15.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-15.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-15.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 15 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -166,8 +166,8 @@
     <itunes:summary>R&F-2015-01-16.mp3</itunes:summary>
     <description>R&F-2015-01-16.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-16.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-16.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 16 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -179,8 +179,8 @@
     <itunes:summary>R&F-2015-01-19.mp3</itunes:summary>
     <description>R&F-2015-01-19.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-19.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-19.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 19 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -192,8 +192,8 @@
     <itunes:summary>R&F-2015-01-20.mp3</itunes:summary>
     <description>R&F-2015-01-20.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-20.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-20.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 20 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -205,8 +205,8 @@
     <itunes:summary>R&F-2015-01-21.mp3</itunes:summary>
     <description>R&F-2015-01-21.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-21.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-21.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 21 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -218,8 +218,8 @@
     <itunes:summary>R&F-2015-01-22.mp3</itunes:summary>
     <description>R&F-2015-01-22.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-22.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-22.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 22 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -231,8 +231,8 @@
     <itunes:summary>R&F-2015-01-23.mp3</itunes:summary>
     <description>R&F-2015-01-23.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-23.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-23.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 23 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -244,8 +244,8 @@
     <itunes:summary>R&F-2015-01-26.mp3</itunes:summary>
     <description>R&F-2015-01-26.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-26.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-26.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 26 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -257,8 +257,8 @@
     <itunes:summary>R&F-2015-01-27.mp3</itunes:summary>
     <description>R&F-2015-01-27.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-27.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-27.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 27 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -270,8 +270,8 @@
     <itunes:summary>R&F-2015-01-28.mp3</itunes:summary>
     <description>R&F-2015-01-28.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-28.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-28.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 28 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -283,8 +283,8 @@
     <itunes:summary>R&F-2015-01-29.mp3</itunes:summary>
     <description>R&F-2015-01-29.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-29.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-29.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 29 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -296,8 +296,8 @@
     <itunes:summary>R&F-2015-01-30.mp3</itunes:summary>
     <description>R&F-2015-01-30.mp3</description>
     <link>http://example.com/podcast-1</link>
-    <enclosure url="R&F-2015-01-30.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <enclosure url="https://archive.org/download/RF-2015-01/R&F-2015-01-30.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 30 Jan 2015</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
