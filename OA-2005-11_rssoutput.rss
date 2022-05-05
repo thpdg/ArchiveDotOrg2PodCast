@@ -24,7 +24,7 @@
     <description>O&A-2005-11-01.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-01.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Tue, 01 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -37,7 +37,7 @@
     <description>O&A-2005-11-02.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-02.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Wed, 02 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -50,7 +50,7 @@
     <description>O&A-2005-11-03.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-03.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Thu, 03 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -63,7 +63,7 @@
     <description>O&A-2005-11-04.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-04.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Fri, 04 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -76,7 +76,7 @@
     <description>O&A-2005-11-07.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-07.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Mon, 07 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -89,7 +89,7 @@
     <description>O&A-2005-11-08.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-08.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Tue, 08 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -102,7 +102,7 @@
     <description>O&A-2005-11-09.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-09.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Wed, 09 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -115,7 +115,7 @@
     <description>O&A-2005-11-10.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-10.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Thu, 10 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -128,7 +128,7 @@
     <description>O&A-2005-11-11.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-11.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Fri, 11 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -141,7 +141,7 @@
     <description>O&A-2005-11-14.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-14.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Mon, 14 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -154,7 +154,7 @@
     <description>O&A-2005-11-15.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-15.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Tue, 15 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -167,7 +167,7 @@
     <description>O&A-2005-11-16.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-16.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Wed, 16 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -180,7 +180,7 @@
     <description>O&A-2005-11-17.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-17.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Thu, 17 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -193,7 +193,7 @@
     <description>O&A-2005-11-18.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-18.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Fri, 18 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -206,7 +206,7 @@
     <description>O&A-2005-11-21.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-21.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Mon, 21 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -219,7 +219,7 @@
     <description>O&A-2005-11-22.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-22.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Tue, 22 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -232,7 +232,7 @@
     <description>O&A-2005-11-23.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-23.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Wed, 23 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -245,7 +245,7 @@
     <description>O&A-2005-11-24.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-24.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Thu, 24 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -258,7 +258,7 @@
     <description>O&A-2005-11-25.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-25.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Fri, 25 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -271,7 +271,7 @@
     <description>O&A-2005-11-28.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-28.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Mon, 28 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -284,7 +284,7 @@
     <description>O&A-2005-11-29.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-29.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Tue, 29 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -297,7 +297,7 @@
     <description>O&A-2005-11-30.mp3</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://archive.org/download/OA-2005-11/O&A-2005-11-30.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>2022-05-04</pubDate>
+    <pubDate>Wed, 30 Nov 2005</pubDate>
     <itunes:author>Author Name</itunes:author>
     <itunes:duration>02:42:43</itunes:duration>
     <itunes:explicit>no</itunes:explicit>

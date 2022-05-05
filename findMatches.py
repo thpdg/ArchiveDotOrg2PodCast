@@ -3,6 +3,8 @@
 
 import re
 import sys
+from datetime import datetime
+import dateutil.parser as dparser
 
 filename = ""
 file_url = ""
@@ -47,7 +49,18 @@ matches = re.finditer(regex, file_data, re.MULTILINE)
 episode_entries = ""
 
 def determine_date(source_string):
+    print(f"Searching date {source_string}")
     date_string = "2022-05-04"
+    # date_time_obj = datetime.datetime.strptime(source_string, '%Y-%m-%d')
+    # date_time_obj = dparser.parse(source_string,fuzzy=True)
+    match = re.search(r'\d{4}-\d{2}-\d{2}', source_string)
+    date_time_obj = datetime.strptime(match.group(), '%Y-%m-%d') #.date()
+    # print('Date:', date_time_obj.date())
+    # print('Time:', date_time_obj.time())
+    # print('Date-time:', date_time_obj)
+    # Targeting Mon, 17 Jan 2006 12:01:07 +0000
+    date_string = date_time_obj.strftime("%a, %d %b %Y")
+    print(f"Returning date of {date_string}")
     return date_string
 
 for matchNum, match in enumerate(matches, start=1):
